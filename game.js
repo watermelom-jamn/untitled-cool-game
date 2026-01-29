@@ -55,8 +55,7 @@ const nearMissSound = document.getElementById('nearMissSound'); //near miss soun
 const windSound = document.getElementById('windSound'); //wind sound
 const wallSound = document.getElementById('wallSound'); //wall hit sound
 const bgMusicList =
-    [document.getElementById('bgMusicA'),
-    document.getElementById('bgMusicB'),
+    [document.getElementById('bgMusicB'),
     document.getElementById('bgMusicC'),
     document.getElementById('bgMusicD'),
     document.getElementById('bgMusicE'),
